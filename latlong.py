@@ -2,7 +2,7 @@
 """
 Created on Thu Apr 06 13:47:11 2017
 
-@author: ArunKumar
+@author: Muthu
 """
 from bs4 import BeautifulSoup
 #import re
@@ -10,7 +10,7 @@ from bs4 import BeautifulSoup
 #import urllib2
 
 
-infile = r"C:\Users\ArunKumar\Desktop\Project\project 3\countries.htm"
+infile = r"C:\Users\muthu\Desktop\Project\project 3\countries.htm"
 outfile = open('latlong.csv','w')
 
 
